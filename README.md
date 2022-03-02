@@ -10,4 +10,5 @@ ipython notebooks in each directory have uses suggested by their names:
 
 
 utility.py:  contains some function used by ipython notebook
+
 visulization.py: for data visualization
