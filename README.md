@@ -8,7 +8,7 @@ ipython notebooks in each directory have uses suggested by their names:
 - feature engineering
 - model training
 
-
+Ohter python scripts:
 - decomp_sales: use STL or moving average for data detrending and Deseasonalization (sales data)
 - decomp_traffic: use STL or moving average for data detrending and Deseasonalization (traffic data)
 - utility.py:  contains some utility function used by ipython notebook
